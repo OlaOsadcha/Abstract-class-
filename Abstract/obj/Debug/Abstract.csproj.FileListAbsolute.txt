@@ -1,0 +1,7 @@
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\16.04.2019\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\16.04.2019\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\16.04.2019\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\16.04.2019\Abstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\16.04.2019\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\16.04.2019\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\MATEMATYKA\SEMESTR_2_MAGIST\PROGRAMOWANIE\16.04.2019\Abstract\Abstract\obj\Debug\Abstract.pdb
